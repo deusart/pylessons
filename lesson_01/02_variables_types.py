@@ -7,3 +7,4 @@ var = int(1) # явное преобразование в int
 # int - imutable
 
 
+print(1)
